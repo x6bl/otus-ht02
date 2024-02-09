@@ -1,0 +1,12 @@
+logger:
+  train_log_path: "train_results.log"
+  run_log_path: "run_results.log"
+
+agent:
+  save_to: "ll_model"
+  episode_n: 560
+  learning_rate: 0.0005
+  gamma: 0.99
+  tau: 0.001
+  buffer_size: 50000
+  ma_period: 100

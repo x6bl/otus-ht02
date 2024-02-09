@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+tmp/
+venv/
+*.log
+ll_model_*
+
