@@ -29,4 +29,4 @@
 ![Пример выполнения скрипта run.py](console_log_run.png)
 
 Видео посадки модуля обученным агентом:
-<video src='https://github.com/x6bl/otus-ht02/assets/154658821/932162bd-193f-4dfc-881f-94228c0ee9d9' width=320/>
+<video src='https://github.com/x6bl/otus-ht02/assets/154658821/932162bd-193f-4dfc-881f-94228c0ee9d9' width=240/>
